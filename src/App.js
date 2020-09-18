@@ -19,7 +19,7 @@ function App() {
           Learn React Sudheesh & Anusruthi & New baby & Family
         </a>
 		 <p>
-          Jai Shree Ram JAY Hanumanbb
+          Jai Shree Ram JAY
         </p>
       </header>
     </div>
