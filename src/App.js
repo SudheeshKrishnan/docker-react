@@ -16,8 +16,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React Sudheesh & Anusruthi & New baby & Family
         </a>
+		 <p>
+          Jai Shree Ram JAY
+        </p>
       </header>
     </div>
   );
