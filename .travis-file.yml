@@ -9,6 +9,7 @@ before_install:
 
 script:
   - docker run -e CI=true vayalankatil/docker-react npm run test
+  
 notifications:
   email:
    recipients:
