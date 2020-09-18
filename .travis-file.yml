@@ -11,5 +11,7 @@ script:
   - docker run -e CI=true vayalankatil/docker-react npm run test
 notifications:
   email:
-    - sudheeshvayalankatil@gmail.com
-  on_success: always    
+   recipients:
+     - sudheeshvayalankatil@gmail.com
+   on_success: always
+   on_failure: always 
