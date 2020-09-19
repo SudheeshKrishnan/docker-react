@@ -16,10 +16,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hara Hara Mahadev
+          Learn React Sudheesh & Anusruthi & New baby
         </a>
 		 <p>
-          Jai Shree Ram
+          Jai Shree Ram JAY
         </p>
       </header>
     </div>
