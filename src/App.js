@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Sudheesh & Anusruthi & New baby & Family
+          Learn React Sudheesh & Anusruthi & New baby
         </a>
 		 <p>
           Jai Shree Ram JAY
